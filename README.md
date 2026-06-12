@@ -142,35 +142,6 @@ satellite-siamese-diploma/
 
 ---
 
-## 🚀 Як запустити
-
-### Google Colab (рекомендовано)
-
-1. Натисніть кнопку нижче:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/satellite-siamese-diploma/blob/main/satellite_siamese_diploma_clean.ipynb)
-
-2. Увімкніть GPU: `Середовище виконання → Змінити тип середовища виконання → T4 GPU`
-3. Запустіть всі клітинки: `Середовище виконання → Запустити всі`
-
-> ⚠️ **Увага:** без GPU навчання займе 10–20+ годин. З T4 GPU — близько 40–60 хвилин на 5 епох.
-
-### Локально
-
-```bash
-# Клонувати репозиторій
-git clone https://github.com/YOUR_USERNAME/satellite-siamese-diploma.git
-cd satellite-siamese-diploma
-
-# Встановити залежності
-pip install -r requirements.txt
-
-# Відкрити ноутбук
-jupyter notebook satellite_siamese_diploma_clean.ipynb
-```
-
----
-
 ## 🎮 Інтерактивний інтерфейс
 
 Після запуску всіх клітинок відкривається інтерактивний інтерфейс:
@@ -256,16 +227,9 @@ numpy>=1.24.0
 | `preview_mobilenet.png` | результат детекції MobileNetV3 |
 | `diploma_report.txt` | текстовий звіт аналізу |
 
----
-
-## 📜 Ліцензія
-
-Цей проєкт розповсюджується під ліцензією [MIT](LICENSE).
-
----
 
 <div align="center">
 
-Зроблено з ❤️ як дипломна робота | 2025–2026
+Зроблено дипломна робота | 2025–2026
 
 </div>
