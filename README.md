@@ -10,10 +10,6 @@
 **Дипломна робота** | Класифікація та детекція інфраструктурних об'єктів на супутникових знімках  
 з використанням метричного навчання (Triplet Loss)
 
-[▶️ Відкрити в Colab](https://colab.research.google.com/github/YOUR_USERNAME/satellite-siamese-diploma/blob/main/satellite_siamese_diploma_clean.ipynb) &nbsp;•&nbsp;
-[📊 Датасет](https://huggingface.co/datasets/timm/resisc45) &nbsp;•&nbsp;
-[📄 Документація](#-як-запустити)
-
 </div>
 
 ---
