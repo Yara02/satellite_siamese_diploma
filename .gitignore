@@ -1,0 +1,24 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Згенеровані файли (не потрібні в репо)
+*.pth
+diploma_report.txt
+preview_*.png
+01_dataset_preview.png
+02_training_curves.png
+03_comparison_charts.png
+04_single_image_analysis.png
+
+# Системні
+.DS_Store
+Thumbs.db
